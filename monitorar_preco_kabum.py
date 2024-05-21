@@ -1,3 +1,6 @@
+# python3 monitorar_preco_kabum.py 
+
+
 import requests
 from bs4 import BeautifulSoup
 import smtplib

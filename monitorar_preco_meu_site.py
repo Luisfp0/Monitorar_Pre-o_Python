@@ -1,3 +1,5 @@
+# python3 monitorar_preco_meu_site.py 
+
 import requests
 from bs4 import BeautifulSoup
 import smtplib
